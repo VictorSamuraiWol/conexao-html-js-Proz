@@ -1,3 +1,16 @@
+/*Capturar e imprimir esses elementos:
+- formulario
+- section com ambos os posts
+- datas dos posts
+- textos dos posts
+- listas com links das redes sociais
+- O link dentro do texto do primeiro post
+- A palavra em negrito dentro do texto do segundo post
+- O input de nome do formulário
+- Os links da lista de redes no final da página
+- Os links da navegação (só os links, não os elementos de lista)
+- Os 4 "Autor:" e "Data:" em negrito nos dois posts'*/
+
 const formulario = document.getElementById('formulario');
 console.log(formulario);
 
